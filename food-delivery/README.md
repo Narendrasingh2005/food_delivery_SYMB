@@ -2,7 +2,7 @@
 
 A full-stack application that manages food delivery orders and automatically assigns delivery to the nearest unpaid order.
 
----
+--
 
 ## 📁 Project Structure
 
