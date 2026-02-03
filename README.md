@@ -110,7 +110,7 @@ AssignDelivery(maxDistance):
   6. If no candidates exist  →  return "No order available"
 ```
 
----
+--
 
 ## 📦 Sample Data (auto-loaded on startup)
 
@@ -123,7 +123,7 @@ AssignDelivery(maxDistance):
 | Noodle Nest  | 1     | No    | 5.8 km   |
 | Salad Garden | 2     | Yes   | 3.3 km   |
 
----
+--
 
 ## 🛠️ Tech Stack
 
