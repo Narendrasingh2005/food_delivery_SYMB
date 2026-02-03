@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:8083/api/orders";
+const BASE_URL = process.env.REACT_APP_API_URL || "http://localhost:8083/api/orders";
 
 export const createOrder = (orderData) => {
   return axios.post(BASE_URL, orderData);
